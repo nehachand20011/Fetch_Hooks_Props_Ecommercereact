@@ -1,0 +1,19 @@
+.counter{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(209, 23, 13);
+    margin-top: 30px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+.increase,.decrease{
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+
+
+}
